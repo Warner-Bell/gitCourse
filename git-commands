@@ -1,0 +1,50 @@
+git init - initializes a new Git repository.
+git clone - clones a repository from a remote server.
+git add - adds files to the staging area.
+git commit - creates a new commit with the changes in the staging area.
+git status - shows the current status of the repository.
+git push - pushes changes to a remote repository.
+git pull - fetches and merges changes from a remote repository.
+git branch - lists all the branches in the repository.
+git checkout - switches to a different branch or commit.
+git merge - merges changes from one branch into another.
+git log - shows the commit history of the repository.
+git diff - shows the differences between commits, branches, or files.
+git stash - temporarily saves changes that are not ready to be committed.
+git tag - creates a new tag for a commit.
+git remote - manages the remote repositories of the project.
+git fetch - downloads changes from a remote repository without merging them.
+git reset - resets the current branch to a specific commit.
+git revert - reverts a specific commit.
+git rm - removes files from the repository.
+git mv - moves or renames files in the repository.
+git grep - searches the repository for a specific string.
+git blame - shows the author and commit information for each line in a file.
+git bisect - helps to find the commit that introduced a bug.
+git cherry-pick - applies the changes from a specific commit to the current branch.
+git reflog - shows the history of all the refs in the repository.
+git show - displays information about a specific commit.
+git submodule - manages submodules in the repository.
+git config - manages the configuration of Git.
+git log --graph - shows the commit history as a graph.
+git log --oneline - shows the commit history in a single line format.
+git log --author - shows the commits made by a specific author.
+git log --since - shows the commits made since a specific date.
+git log --until - shows the commits made until a specific date.
+git log --grep - shows the commits that match a specific pattern.
+git log --merges - shows the merge commits in the repository.
+git log --no-merges - shows the commits that are not merge commits.
+git diff HEAD - shows the differences between the working directory and the last commit.
+git diff --cached - shows the differences between the staging area and the last commit.
+git diff branch1 branch2 - shows the differences between two branches.
+git checkout -b - creates a new branch and switches to it.
+git branch -d - deletes a branch.
+git branch -m - renames a branch.
+git stash pop - applies the changes from the latest stash.
+git stash apply - applies the changes from a specific stash.
+git stash drop - deletes a specific stash.
+git stash list - shows the list of stashes.
+git stash show - shows the changes in a specific stash.
+git stash branch - creates a new branch with the changes from a specific stash.
+git blame -L - shows the author and commit information for a specific range of lines in a file.
+git commit --amend - changes the last commit.
